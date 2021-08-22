@@ -1,5 +1,7 @@
-*
-*/
 !.gitignore
 .sln
 .vcxproj
+.vs/
+Debug/
+Project.*
+Release/
